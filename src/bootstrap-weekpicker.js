@@ -36,7 +36,7 @@
             }
             selectedYear = year;
 
-            element.val("Week " + calendarWeek + ", " + year);
+            element.val("Semaine " + calendarWeek + ", " + year);
         }
 
         function createButton (direction, siblingElement) {
